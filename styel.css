@@ -69,14 +69,14 @@ li {
 
 .qr-img {
    border-radius: 8px;
-   width: 280px;
-   height: 280px;
+   width: 290px;
+   height: 290px;
    object-fit: cover;
    background-position: center;
 }
 
 .qr-content {
-   max-width: 280px;
+   max-width: 290px;
    text-align: center;
    margin: 20px auto;
 }
